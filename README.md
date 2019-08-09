@@ -9,12 +9,12 @@ To use this application you will need:
 
 Python 3.7
 Access to Cisco sandbox
-Install and Setup
+Install and Setup: Python3.7
 Clone the code to your local machine.
 
-git clone https://github.com/ai-devnet/Getting-started-with-Cisco-SD-WAN-REST-APIs.git
-cd Getting-started-with-Cisco-SD-WAN-REST-APIs
-Setup Python Virtual Environment (requires Python 3.6+)
+git clone https://github.com/ai-devnet/controllers_cisco_api.git
+cd controllers_cisco_api 
+Setup Python Virtual Environment (requires Python 3.7)
 
 python3.7 -m venv venv
 source venv/bin/activate
