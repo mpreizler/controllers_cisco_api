@@ -7,14 +7,18 @@ This script only use a couple of GET request.  However, once you understand how 
 Requirements
 To use this application you will need:
 
-Python 3.7
 Access to Cisco sandbox
 Install and Setup: Python3.7
 Clone the code to your local machine.
-From MAC type from terminal: git clone https://github.com/mpreizler/controllers_cisco_api.git
-cd controllers_cisco_api 
-Setup Python Virtual Environment (requires Python 3.7)
+From MAC: 
+$git clone https://github.com/mpreizler/controllers_cisco_api.git
+$cd controllers_cisco_api 
+$pip3 install requests
+Run the program:
+$python3.7 controllers_cisco_api.git
 
+
+If you want, setup Python Virtual Environment (requires Python 3.7)
 python3.7 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
