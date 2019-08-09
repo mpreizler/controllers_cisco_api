@@ -1,6 +1,6 @@
 Getting started with REST APIs with Cisco Controllers
 
-The goals of this application are various. First is to show how simple it is to develop applications in python by using the REST API that Cisco controllers provides, learning python as well. Second, is to help each SE to underdstand how the programmability could be oriented to networking using this for demos. And finally, it can be used as a base for further interactions.
+The goals of this application are various. First is to show how simple it is to develop applications in python by using the REST API that Cisco controllers provides. Second, is to help each SE to underdstand how the programmability could be oriented to networking as well as using this for demo when you talk about APIs with Cisco Controllers. And finally, it can be used as a base for further interactions.
 
 This script only use a couple of GET request.  However, once you understand how each of the controllers works, you can create options at your own.
 
