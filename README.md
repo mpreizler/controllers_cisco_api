@@ -16,7 +16,7 @@ $git clone https://github.com/mpreizler/controllers_cisco_api.git
 $cd controllers_cisco_api 
 $pip3 install requests
 Run the program:
-$python3.7 controllers_cisco_api.git
+$python3.7 controllers_api_cisco.py
 
 
 If you prefer VENV, setup Python Virtual Environment (requires Python 3.7)
