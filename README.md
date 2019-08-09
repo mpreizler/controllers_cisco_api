@@ -5,9 +5,10 @@ The goals of this application are various. First is to show how simple it is to 
 This script only use a couple of GET request.  However, once you understand how each of the controllers works, you can create options at your own.
 
 Requirements
+
 To use this application you will need:
 
-Access to Cisco sandbox
+Connectivity to Cisco sandbox and Meraki Cloud
 Install and Setup: Python3.7
 Clone the code to your local machine.
 From MAC: 
@@ -18,10 +19,10 @@ Run the program:
 $python3.7 controllers_cisco_api.git
 
 
-If you want, setup Python Virtual Environment (requires Python 3.7)
+If you prefer VENV, setup Python Virtual Environment (requires Python 3.7)
 python3.7 -m venv venv
 source venv/bin/activate
-pip install -r requirements.txt
+pip3 install requests
 Setup local environment variables for your Cisco API controllers.
 
 To execute the script:
