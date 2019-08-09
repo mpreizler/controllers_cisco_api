@@ -11,8 +11,7 @@ Python 3.7
 Access to Cisco sandbox
 Install and Setup: Python3.7
 Clone the code to your local machine.
-
-git clone https://github.com/mpreizler/controllers_cisco_api.git
+From MAC type from terminal: git clone https://github.com/mpreizler/controllers_cisco_api.git
 cd controllers_cisco_api 
 Setup Python Virtual Environment (requires Python 3.7)
 
