@@ -31,3 +31,4 @@ $python3.7 controllers_api_cisco.py
 
 Notes:
 If you have issues with some options for DNA, please try to change sandboxdnac2.cisco.com to sandboxdnac.cisco.com in urls.
+Check first if sandboxsdwan.cisco.com if (always-on)is up.
